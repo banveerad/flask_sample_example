@@ -16,6 +16,10 @@ pip install rollbar
 
 pip install webob
 
+4. Install blinker
+
+pip install blinker
+
 After installing the above packages. On cli do the following 
 
 export FLASK_APP=server.py
