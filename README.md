@@ -1,5 +1,6 @@
 # flask_sample_example
-Testing rollbar apis for python
+Testing rollbar apis for python.
+
 How to run
 Install following packages
 1. Install flask
