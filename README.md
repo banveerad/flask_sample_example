@@ -16,7 +16,9 @@ pip install webob
 After installing the above packages. On cli do the following 
 
 export FLASK_APP=server.py
+
 python -m flask run
 
 To enable debug mode
+
 export FLASK_DEBUG=1
